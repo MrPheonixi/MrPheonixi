@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrPheonixi
 - 🌱 I’m currently learning c++ and i say code in python
-- 💞️ I’m looking to collaborate on new project ykw5 with other people
+- 💞️ I’m looking to collaborate on project: Yokai-Watch_online with other people (contact discord: mr.phenix_de_feu)
 - 😄 Pronouns: catboy 
 - ⚡ Fun fact: oooooooooo
 
