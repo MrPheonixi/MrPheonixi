@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrPheonixi
-- 🌱 I’m currently learning c++ and i can code in python
-- 💞️ I’m looking to collaborate for many project so if you have any skill contact me (contact discord: mr.phenix_de_feu)
-- 😄 Pronouns: catboy 
+- 🌱 I’m code currently in python but know some basic in c++ and html
+- 😄 Pronouns: he
 - ⚡ Fun fact: oooooooooo
 
 <!---
